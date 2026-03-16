@@ -116,8 +116,14 @@ The project presentation includes:
 - An overall biomedical graph visualization
 - Bar charts for node-type and edge-type counts
 - Degree analysis by node category
+
+
 - Most connected diseases
 - Disease–symptom subgraph visualization
 - Similarity analysis between diseases and symptoms
 - A final patient-centered graph exploration for Hemoglobinuria :contentReference[oaicite:13]{index=13}
+
+  ## Link Presentation
+  https://www.youtube.com/watch?v=GHodgL50AWs
+  
 
